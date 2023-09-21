@@ -1,7 +1,6 @@
 from pyrogram import filters
 from pyrogram.types import CallbackQuery, Message
 
-from HuTao import LOGGER
 from HuTao import app
 from HuTao.database.rules_db import Rules
 from HuTao.helpers.status import user_admin
