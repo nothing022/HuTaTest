@@ -16,7 +16,6 @@ from HuTao.Config import (
     DB_URL,
     LOG_CHANNEL_ID,
     OWNER,
-    SQL_URL,
     COMMAND_HANDLER,
     SUPPORT_CHAT,
 )
